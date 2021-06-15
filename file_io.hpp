@@ -1,4 +1,4 @@
-#pragma
+#pragma onece
 
 #include <fstream>
 #include <vector>
